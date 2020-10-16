@@ -1,6 +1,6 @@
 
 
-# Tanmay Patil Portfolio
+# Devansh Paste Portfolio
 Public repository
 
 
